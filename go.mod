@@ -1,4 +1,4 @@
-module github.com/manatonarisawa/proglog
+module github.com/ManatoNarisawa/proglog
 
 go 1.20
 

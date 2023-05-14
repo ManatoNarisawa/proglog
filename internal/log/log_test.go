@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	api "github.com/manatonarisawa/proglog/api/v1"
+	api "github.com/ManatoNarisawa/proglog/api/v1"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/protobuf/proto"
 )

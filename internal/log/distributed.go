@@ -15,7 +15,7 @@ import (
 
 	"github.com/hashicorp/raft"
 
-	api "github.com/manatonarisawa/proglog/api/v1"
+	api "github.com/ManatoNarisawa/proglog/api/v1"
 )
 
 type DistributedLog struct {

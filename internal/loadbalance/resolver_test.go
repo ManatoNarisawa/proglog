@@ -11,10 +11,10 @@ import (
 	"google.golang.org/grpc/resolver"
 	"google.golang.org/grpc/serviceconfig"
 
-	api "github.com/manatonarisawa/proglog/api/v1"
-	"github.com/manatonarisawa/proglog/internal/config"
-	"github.com/manatonarisawa/proglog/internal/loadbalance"
-	"github.com/manatonarisawa/proglog/internal/server"
+	api "github.com/ManatoNarisawa/proglog/api/v1"
+	"github.com/ManatoNarisawa/proglog/internal/config"
+	"github.com/ManatoNarisawa/proglog/internal/loadbalance"
+	"github.com/ManatoNarisawa/proglog/internal/server"
 )
 
 func TestResolver(t *testing.T) {

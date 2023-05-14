@@ -7,8 +7,8 @@ import (
 	"path"
 	"syscall"
 
-	"github.com/manatonarisawa/proglog/internal/agent"
-	"github.com/manatonarisawa/proglog/internal/config"
+	"github.com/ManatoNarisawa/proglog/internal/agent"
+	"github.com/ManatoNarisawa/proglog/internal/config"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

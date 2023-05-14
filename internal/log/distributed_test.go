@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
+	api "github.com/ManatoNarisawa/proglog/api/v1"
+	"github.com/ManatoNarisawa/proglog/internal/log"
 	"github.com/hashicorp/raft"
-	api "github.com/manatonarisawa/proglog/api/v1"
-	"github.com/manatonarisawa/proglog/internal/log"
 	"github.com/stretchr/testify/require"
 )
 

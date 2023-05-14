@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	api "github.com/manatonarisawa/proglog/api/v1"
+	api "github.com/ManatoNarisawa/proglog/api/v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

@@ -1,6 +1,6 @@
 # Default values for proglog.
 image:
-  repository: github.com/manatonarisawa/proglog
+  repository: github.com/ManatoNarisawa/proglog
   tag: 0.0.1
   pullPolicy: IfNotPresent
 serfPort: 8401

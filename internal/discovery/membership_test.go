@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	. "github.com/ManatoNarisawa/proglog/internal/discovery"
 	"github.com/hashicorp/serf/serf"
-	. "github.com/manatonarisawa/proglog/internal/discovery"
 	"github.com/stretchr/testify/require"
 	"github.com/travisjeffery/go-dynaport"
 )
